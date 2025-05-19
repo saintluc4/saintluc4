@@ -15,3 +15,14 @@
 <img loading="lazy" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintluc4&layout=compact&langs_count=10&theme=nightowl"/>
 
 ###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img width="12" />
+</div>
+
+###
