@@ -38,7 +38,9 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="archlinux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnometerminal/D3D3D3" height="40" alt="gnometerminal logo"  />
+  <img src="https://cdn.simpleicons.org/fedora/1793D1" height="40" alt="archlinux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipseide/D3D3D3" height="40" alt="gnometerminal logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
