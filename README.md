@@ -16,6 +16,10 @@
 
 ###
 
+<h3 align="left"><u>Coding:</u></h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="12" />
@@ -24,5 +28,9 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h3 align="left"><u>Softwares & Tools:</u></h3>
 
 ###
