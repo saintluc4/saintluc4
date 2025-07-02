@@ -4,7 +4,7 @@
 
 <h3 align="left"> 👨‍💻 About Me</h3>
 
-<h3 align="left">🌱 I’m currently learning C++, Java & PHP.</h3>
+<h3 align="left">🌱 I’m currently learning C++, JS, PHP, HTML.</h3>
 
 ###
 
